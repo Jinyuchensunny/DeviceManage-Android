@@ -1,0 +1,2 @@
+rootProject.name='DeviceManage'
+include ':app'
